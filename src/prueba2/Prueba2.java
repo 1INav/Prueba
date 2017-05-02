@@ -15,7 +15,7 @@ public class Prueba2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         //Version 1
+         //Version 1.0
         System.out.println("Hola Mundo");
     }
     
