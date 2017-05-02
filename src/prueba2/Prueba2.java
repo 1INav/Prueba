@@ -15,7 +15,7 @@ public class Prueba2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         //Prueba para subir un cambio
+         //Version 1
         System.out.println("Hola Mundo");
     }
     
